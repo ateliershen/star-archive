@@ -1,0 +1,441 @@
+full_name	category	status	action	starred_at	pushed_at	archived	stars	language	topics	description
+siddharthvaddem/openscreen	桌面 / 行動 App	1. 已封存	REVIEW	2026-04-03	2026-06-17	True	39905	TypeScript	electron|open-source|pixijs|screen-capture|screen-recorder	Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+mustafaaljadery/lightning-whisper-mlx	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2025-10-26	2024-05-08	False	958	Python		An extremely fast implementation of whisper optimized for Apple Silicon using MLX. 
+vanna-ai/vanna	AI / LLM / Agent	1. 已封存	REVIEW	2025-07-16	2026-02-02	True	23816	Python	agent|ai|data-visualization|database|llm|rag|sql|text-to-sql	🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
+FlowiseAI/Flowise	AI / LLM / Agent	1. 已封存	REVIEW	2024-12-25	2026-08-13	True	55425	TypeScript	agentic-ai|agentic-workflow|agents|artificial-intelligence|chatbot|chatgpt|javascript|langchain|large-language-models|low-code|multiagent-systems|no-code|openai|rag|react|typescript|workflow-automation	Build AI Agents, Visually
+bytedance/monolith	其他 / 未分類	1. 已封存	UNSTAR	2024-12-22	2025-10-13	True	9292	Python		A Lightweight Recommendation System
+SmartSchoolAI/ai-to-pptx	AI / LLM / Agent	1. 已封存	UNSTAR	2024-12-17	2026-06-12	True	1460	TypeScript	ai-to-pptx|aippt|chatgpt|chatgpt-pptx|chatgpt-to-|chatgpt-to-pptx|pptx|slides|vueppt	前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
+MikimotoH/furigana	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2024-11-25	2023-09-22	False	104	Python		Generate furigana from Japanese
+rahulnyk/knowledge_graph_maker	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2024-09-13	2024-08-15	False	261	Python		
+Team-xManager/xManager	桌面 / 行動 App	1. 已封存	UNSTAR	2024-09-11	2025-08-15	True	12165	Java	android|java	Ad-Free, New Features & Freedom
+alpkeskin/mosint	安全 / 隱私	4. 停更 (2-3年)	REVIEW	2024-07-27	2024-02-02	False	6013	Go	automation|data-breach|email|email-checker|go|hacking|information-gathering|osint|osint-tool|pentest|pwn|python-hacking|social-media|socmint|verification-service	An automated e-mail OSINT tool
+lllyasviel/Omost	媒體 / 影音處理	4. 停更 (2-3年)	REVIEW	2024-06-03	2024-07-26	False	7609	Python		Your image is almost there!
+techinasia/bt-flutter	桌面 / 行動 App	4. 停更 (2-3年)	UNSTAR	2024-05-23	2024-05-23	False	1	Dart		The source code of BT's Flutter app, updated monthly
+Brackeys/first-game-in-godot	遊戲開發	4. 停更 (2-3年)	UNSTAR	2024-05-02	2024-05-09	False	603	GDScript		Project files for our video on making your first game in Godot.
+meta-llama/llama3	AI / LLM / Agent	1. 已封存	REVIEW	2024-04-21	2025-01-26	True	29234	Python		The official Meta Llama 3 GitHub site
+dream-num/Luckysheet	前端 / UI	1. 已封存	UNSTAR	2024-04-21	2025-08-19	True	16643	JavaScript	canvas|chart|conditional-formatting|data-table|excel|formula|google-sheets|google-spreadsheet|javascript|office|pivot-tables|sparkline|spreadsheet|web-based|xlsx	Luckysheet upgraded to Univer
+nashsu/FreeAskInternet	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2024-04-10	2024-04-18	False	8747	Python		FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. 
+nilsherzig/LLocalSearch	AI / LLM / Agent	1. 已封存	UNSTAR	2024-04-06	2026-03-24	True	5945	Go	llm|search-engine	LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
+fudan-generative-vision/champ	前端 / UI	4. 停更 (2-3年)	UNSTAR	2024-03-29	2024-07-10	False	4263	Python	human-animation|image-animatioln|video-generation	[ECCV 2024] Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
+langchain-ai/langchain-extract	AI / LLM / Agent	1. 已封存	UNSTAR	2024-03-28	2026-02-10	True	1194	Rich Text Format	extraction|extraction-data|fastapi|langchain|langchain-python|llm|llms	🦜⛏️ Did you say you like data?
+semanser/codel	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2024-03-27	2024-04-29	False	2476	TypeScript	agent|ai|autonomous-agents|bot|devin|llama2|llms|ollama|openai	✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+openinterpreter/aifs	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2024-03-25	2024-07-07	False	463	Python		Local semantic search. Stupidly simple.
+lewis-007/MediaCrawler	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2024-03-23	2024-03-11	False	508	Python		
+xai-org/grok-1	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2024-03-19	2024-08-30	False	52217	Python		Grok open release
+openai/grok	其他 / 未分類	1. 已封存	UNSTAR	2024-03-19	2024-03-19	True	4260	Python		
+cbh123/stickerbaker	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2024-02-29	2024-05-14	False	1100	Elixir		Let's bake some (AI) stickers!
+all-in-aigc/sorafm	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2024-02-23	2024-08-15	False	1153	TypeScript	ai-video-generator|ai-video-showcase|sora	Sora AI Video Generator by Sora.FM
+SoraWebui/FakeSoraAPI	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2024-02-23	2024-02-24	False	259	TypeScript	api|openai|sora	Fake Sora API is an open-source project that simulates the yet-to-be-released OpenAI Sora API, enabling developers to prepare and test their applications in advance.
+levihsu/OOTDiffusion	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2024-02-23	2024-05-13	False	6586	Python		"[AAAI 2025] Official implementation of ""OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on"""
+reorproject/reor	AI / LLM / Agent	1. 已封存	UNSTAR	2024-02-16	2025-05-13	True	8567	JavaScript	ai|lancedb|llama|llamacpp|local-first|markdown|note-taking|ollama|pkm|rag|second-brain|vector-database	Private & local AI personal knowledge management app for high entropy people.
+Stability-AI/StableCascade	機器學習 / 資料科學	4. 停更 (2-3年)	REVIEW	2024-02-16	2024-07-25	False	6537	Jupyter Notebook		Official Code for Stable Cascade
+rocketseat-education/nlw-expert-nodejs	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2024-02-10	2024-02-14	False	214	TypeScript		Real-time voting system built with Node.js
+leptonai/search_with_lepton	AI / LLM / Agent	1. 已封存	UNSTAR	2024-01-28	2025-12-02	True	8064	TypeScript	ai|ai-applications|leptonai|llm	Building a quick conversation-based search demo with Lepton AI.
+LiheYoung/Depth-Anything	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2024-01-25	2024-07-17	False	8202	Python	depth-estimation|image-synthesis|metric-depth-estimation|monocular-depth-estimation	[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+instantX-research/InstantID	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2024-01-25	2024-07-18	False	11988	Python		InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
+ZHO-ZHO-ZHO/ComfyUI-InstantID	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2024-01-25	2024-05-22	False	1444	Python	comfyui|stable-diffusion	Unofficial implementation of InstantID for ComfyUI
+maybe-finance/maybe	後端 / API / 框架	1. 已封存	REVIEW	2024-01-15	2025-07-24	True	54296	Ruby	finance|hotwire|personal-finance|postgresql|ruby|ruby-on-rails|stimulusjs|turbo	The personal finance app for everyone
+rauchg/next-ai-news	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2024-01-10	2024-02-14	False	849	TypeScript		
+facebookresearch/audio2photoreal	機器學習 / 資料科學	1. 已封存	UNSTAR	2024-01-07	2024-09-15	True	2849	Python		Code and dataset for photorealistic Codec Avatars driven from audio
+ccampbell/mousetrap	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2023-12-24	2023-03-15	False	11777	JavaScript	javascript|keyboard|keyboard-shortcuts|mousetrap	Simple library for handling keyboard shortcuts in Javascript
+ali-vilab/AnyDoor	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2023-12-22	2024-04-08	False	4238	Python	image-composition|image-customization|image-editing|image-generation	Official implementations for paper: Anydoor: zero-shot object-level image customization
+openai/weak-to-strong	其他 / 未分類	1. 已封存	UNSTAR	2023-12-20	2024-05-19	True	2552	Python		
+adrianhajdin/event_platform	前端 / UI	4. 停更 (2-3年)	UNSTAR	2023-12-19	2024-07-20	False	958	TypeScript	clerk|next14|server-actions	Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
+Flode-Labs/vid2densepose	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-12-09	2023-12-10	False	1102	Python	densepose|magic-animate	Convert your videos to densepose and use it on MagicAnimate
+microsoft/TaskWeaver	AI / LLM / Agent	1. 已封存	UNSTAR	2023-12-05	2026-03-23	True	6170	Python	agent|ai-agents|code-interpreter|copilot|data-analysis|llm|openai	"The first ""code-first"" agent framework for seamlessly planning and executing data analytics tasks. "
+pydantic/FastUI	前端 / UI	1. 已封存	UNSTAR	2023-12-04	2026-04-01	True	8950	Python	fastapi|pydantic|python|react	Build better UIs faster.
+flowtyone/flowty-realtime-lcm-canvas	前端 / UI	4. 停更 (2-3年)	UNSTAR	2023-11-23	2023-12-02	False	1770	Python		A realtime sketch to image demo using LCM and the gradio library. 
+disler/multi-agent-postgres-data-analytics	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-11-16	2024-07-24	False	887	Python		The way we interact with our data is changing.
+Th3Wall/Fakeflix	前端 / UI	4. 停更 (2-3年)	UNSTAR	2023-11-15	2024-01-16	False	4947	JavaScript	firebase|react|react-hooks|react-hooks-form|react-router|redux|redux-persist|redux-saga|redux-thunk	Not the usual clone that you can find on the web.
+langchain-ai/opengpts	其他 / 未分類	1. 已封存	UNSTAR	2023-11-13	2025-06-26	True	6726	Rich Text Format		
+Planetary-Computers/autotab-starter	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-10-22	2023-12-12	False	1009	Python	agent|ai|automation|browser	Build browser agents for real world tasks
+spdustin/ChatGPT-AutoExpert	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-10-18	2024-01-17	False	6647	JavaScript		🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
+localstack/localstack	開發工具 / CLI	1. 已封存	REVIEW	2023-09-29	2026-03-23	True	65131	Python	aws|cloud|continuous-integration|developer-tools|localstack|python|testing	💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+daveshap/ACE_Framework	AI / LLM / Agent	1. 已封存	UNSTAR	2023-09-21	2024-03-17	True	1504	Python		ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
+OpenPipe/OpenPipe	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-09-16	2024-05-25	False	2830	TypeScript	ai|llm|llmops|prompt-engineering	Turn expensive prompts into cheap fine-tuned models
+yoheinakajima/instagraph	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-09-16	2023-12-24	False	3553	Python		Converts text input or URL into knowledge graph and displays
+hugapi/hug	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2023-09-07	2024-07-04	False	6881	Python	command-line|falcon|http|http-server|hug-api|python|python-api|python3	Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.
+Externalizable/bongo.cat	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-09-05	2024-05-01	False	3782	JavaScript	bongo|bongo-cat|cat|meme	Hit the bongos like Bongo Cat!
+microsoft/lida	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-08-28	2024-08-08	False	3275	Jupyter Notebook	cohere|datavisualization|hacktoberfest|llm|openai|openai-api|palm2|visualization	Automatic Generation of Visualizations and Infographics using Large Language Models
+meta-llama/codellama	其他 / 未分類	1. 已封存	UNSTAR	2023-08-27	2024-08-12	True	16263	Python		Inference code for CodeLlama models
+opentofu/manifesto	前端 / UI	1. 已封存	REVIEW	2023-08-27	2025-03-18	True	35661	HTML		The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+getumbrel/llama-gpt	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-08-21	2024-04-23	False	10938	TypeScript	ai|chatgpt|code-llama|codellama|gpt|gpt-4|gpt4all|llama|llama-2|llama-cpp|llama2|llamacpp|llm|localai|openai|self-hosted	A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+ramon-victor/freegpt-webui	AI / LLM / Agent	1. 已封存	UNSTAR	2023-08-20	2023-09-26	True	5614	Python	apifree|chatgpt|chatgpt-api|chatgpt-clone|freegpt|freegpt4|gpt-4|gpt-4-api|gpt-4-free|gpt-free|gpt-interface|gpt3|gpt3-api|gpt3-turbo|gpt4|gpt4all|gptfree|jailbreak|language-model|website	GPT 3.5/4 with a Chat Web UI. No API key required.
+llSourcell/Doctor-Dignity	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-08-16	2023-09-21	False	3821	Python		Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+jsgonsette/Wizium	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-08-13	2024-03-28	False	64	C++	backtracking-algorithm|crossword|crossword-generator|crossword-puzzle	Insanely fast crossword generator
+t3dotgg/paycheck-extension	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-08-12	2023-10-31	False	226	JavaScript		poorly guess how much money a tweet is worth
+riverrun/genxword	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2023-08-10	2023-03-19	False	202	Python		Crossword generator written in Python.
+jpatel2005/CrosswordGenerator	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-08-09	2024-08-02	False	8	JavaScript	crossword|crossword-generator|crossword-puzzle|crosswords|website	A website for generating crossword puzzles completely from scratch
+ricklamers/gpt-code-ui	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-07-21	2024-03-20	False	3537	Python	chatgpt|gpt|llms|openai	An open source implementation of OpenAI's ChatGPT Code interpreter
+guoyww/AnimateDiff	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2023-07-14	2024-07-31	False	12237	Python		Official implementation of AnimateDiff.
+thespicyweb/vanilla_breeze	前端 / UI	1. 已封存	UNSTAR	2023-07-14	2026-04-02	True	154	JavaScript		Convert Tailwind CSS to Semantic CSS
+noodle-run/noodle	前端 / UI	1. 已封存	UNSTAR	2023-07-04	2024-10-17	True	12189	TypeScript	drizzle-orm|education|eslint|javascript|next|nextjs13|prettier|productivity-tool|react|redis|sqlite|tailwindcss|trpc|turso|typescript|upstash	Rethinking Student Productivity
+techleadhd/chatgpt-retrieval	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-07-04	2024-03-04	False	1701	Python		
+XingangPan/DragGAN	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-06-29	2024-05-18	False	35752	Python	artificial-intelligence|generative-adversarial-network|generative-models|image-manipulation	Official Code for DragGAN (SIGGRAPH 2023)
+ykdojo/kaguya	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2023-06-27	2023-08-31	False	1195	JavaScript		A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/safeclaw/)
+AntonOsika/gpt-engineer	AI / LLM / Agent	1. 已封存	REVIEW	2023-06-14	2025-05-14	True	55107	Python	ai|autonomous-agent|code-generation|codebase-generation|codegen|coding-assistant|gpt-4|gpt-engineer|openai|python	CLI platform to experiment with codegen. Precursor to: https://lovable.dev
+Fictiverse/Redream	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2023-06-07	2023-11-25	False	1778	C#		Realtime Diffusion, using Automatic1111 Stable Diffusion API
+opencx-labs/OpenChat	AI / LLM / Agent	1. 已封存	UNSTAR	2023-06-06	2024-02-27	True	5233	JavaScript		LLMs custom-chatbots console ⚡
+smol-ai/developer	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-05-28	2024-04-07	False	12187	Python		the first library to let you embed a developer agent in your own app!
+Stability-AI/StableStudio	前端 / UI	4. 停更 (2-3年)	REVIEW	2023-05-20	2024-04-30	False	9048	TypeScript	frontend|ml|stability-ai|stable-diffusion	Community interface for generative AI
+bigcode-project/starcoder	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-05-10	2024-02-27	False	7508	Python		Home of StarCoder: fine-tuning & inference!
+openai/shap-e	遊戲開發	4. 停更 (2-3年)	REVIEW	2023-05-08	2024-06-22	False	12266	Python		Generate 3D objects conditioned on text or images
+richardyc/Chrome-GPT	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-05-06	2023-10-25	False	1742	Python	ai|autogpt|chatgpt|gpt-3-5-turbo|gpt-4|langchain	An AutoGPT agent that controls Chrome on your desktop
+cirediatpl/FigmaChain	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2023-05-03	2023-05-03	False	978	Python		FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
+ttengwang/Caption-Anything	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-04-28	2023-08-29	False	1777	Python	chatgpt|controllable-generation|controllable-image-captioning|image-captioning|segment-anything	Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences. https://huggingface.co/spaces/TencentARC/Caption-Anything https://huggingface.co/spaces/VIPLab/Caption-Anything
+AIGC-Audio/AudioGPT	媒體 / 影音處理	4. 停更 (2-3年)	REVIEW	2023-04-28	2024-07-06	False	10167	Python	audio|gpt|music|sound|speech|talking-head	AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+deep-floyd/IF	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2023-04-28	2024-04-14	False	7801	Python		
+UX-Decoder/Segment-Everything-Everywhere-All-At-Once	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-04-28	2024-08-19	False	4794	Python		"[NeurIPS 2023] Official implementation of the paper ""Segment Everything Everywhere All at Once"""
+lvwzhen/law-cn-ai	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-04-23	2023-06-23	False	4908	MDX	chatgpt|law|openai	⚖️ AI 法律助手
+peterw/Gumroad-Landing-Page-Generator	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-04-23	2024-05-20	False	377	Python		This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
+Significant-Gravitas/Auto-GPT-Plugin-Template	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-04-22	2024-07-16	False	786	Python		A starting point for developing your own plug-in for Auto-GPT
+suno-ai/bark	機器學習 / 資料科學	4. 停更 (2-3年)	REVIEW	2023-04-21	2024-08-19	False	39261	Jupyter Notebook		🔊 Text-Prompted Generative Audio Model
+muellerberndt/mini-agi	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-04-18	2023-06-14	False	2898	Python	agent|agi|artificial-intelligence|gpt-3|gpt-4	MiniAGI is a simple general-purpose AI agent based on the OpenAI API.
+mukulpatnaik/researchgpt	AI / LLM / Agent	1. 已封存	UNSTAR	2023-04-18	2023-11-21	True	3531	Python		A LLM based research assistant that allows you to have a conversation with a research paper
+mayooear/ai-pdf-chatbot-langchain	AI / LLM / Agent	1. 已封存	UNSTAR	2023-04-17	2026-03-27	True	16595	TypeScript	agents|ai|chatbot|langchain|langgraph|nextjs|openai|pdf|typescript	AI PDF chatbot agent built with LangChain & LangGraph 
+Significant-Gravitas/Auto-GPT-Plugins	AI / LLM / Agent	1. 已封存	UNSTAR	2023-04-17	2024-04-29	True	3826	Python		Plugins for Auto-GPT
+facebookresearch/AnimatedDrawings	其他 / 未分類	1. 已封存	UNSTAR	2023-04-16	2025-09-03	True	12826	Python		"Code to accompany ""A Method for Animating Children's Drawings of the Human Figure"""
+interstellard/chatgpt-advanced	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-04-15	2024-08-13	False	6443	TypeScript	ai|browser-extension|chatgpt|chrome-extension|firefox-addon|firefox-extension	WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+biobootloader/wolverine	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2023-04-12	2024-03-08	False	5071	Python		
+Sanster/IOPaint	媒體 / 影音處理	1. 已封存	REVIEW	2023-04-12	2025-04-29	True	23340	Python	inpainting|lama|latent-diffusion|mat|pytorch|stable-diffusion|zits	Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+reworkd/AgentGPT	AI / LLM / Agent	1. 已封存	REVIEW	2023-04-11	2025-04-29	True	36301	TypeScript	agent|agentgpt|agents|agi|ai|ai-agents|autogpt|baby-agi|gpt|langchain|llm|next|openai|t3|t3-stack	🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+Kent0n-Li/ChatDoctor	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-03-30	2024-05-17	False	3630	Python		
+dice2o/BingGPT	桌面 / 行動 App	4. 停更 (2-3年)	REVIEW	2023-03-28	2024-02-08	False	8911	JavaScript	ai|app|bing|binggpt|chatgpt|copilot|desktop-app|edge|electron|gpt|gpt-4|linux|macos|microsoft|new-bing|windows	Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+mailhog/MailHog	後端 / API / 框架	4. 停更 (2-3年)	REVIEW	2023-03-27	2024-02-13	False	16144	Go		Web and API based SMTP testing
+showlab/Tune-A-Video	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2023-03-27	2023-10-25	False	4363	Python		[ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+openai/chatgpt-retrieval-plugin	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-26	2024-07-04	False	21224	Python	chatgpt|chatgpt-plugins	The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+deep-diver/LLM-As-Chatbot	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-03-24	2023-11-20	False	3319	Python		LLM as a Chatbot Service
+fauxpilot/fauxpilot	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-23	2024-04-09	False	14684	Python		FauxPilot - an open-source alternative to GitHub Copilot server
+Chanzhaoyu/chatgpt-web	AI / LLM / Agent	1. 已封存	REVIEW	2023-03-23	2024-08-16	True	31480	Vue		用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+mckaywrigley/chatbot-ui	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-22	2024-08-03	False	33343	TypeScript		AI chat for any model.
+acheong08/EdgeGPT	AI / LLM / Agent	1. 已封存	UNSTAR	2023-03-17	2023-08-03	True	7847	Python	bing-ai|binggpt|chatgpt|edge|edgegpt|gpt|reverse-engineering	Reverse engineered API of Microsoft's Bing Chat AI
+tloen/alpaca-lora	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-17	2024-07-29	False	18911	Jupyter Notebook		Instruct-tune LLaMA on consumer hardware
+brunosimon/folio-2019	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-03-17	2024-05-25	False	4739	JavaScript		
+zai-org/ChatGLM-6B	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-17	2024-06-27	False	40977	Python		ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+m1guelpf/yt-whisper	AI / LLM / Agent	4. 停更 (2-3年)	UNSTAR	2023-03-16	2024-01-16	False	1445	Python	ffmpeg|openai|openai-whisper|subtitles|subtitles-generated|transcribe|whisper|youtube|youtube-dl	Using OpenAI's Whisper to automatically generate YouTube subtitles
+antiboredom/videogrep	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2023-03-15	2024-04-19	False	3462	Python		automatic video supercuts with python
+cocktailpeanut/dalai	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-15	2024-06-18	False	12897	CSS	ai|llama|llm	The simplest way to run LLaMA on your local machine
+chenfei-wu/TaskMatrix	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2023-03-13	2024-01-06	False	33990	Python		
+jessuni/shikwasa	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2023-03-08	2024-04-13	False	506	JavaScript	audio|html5audio|music-player|playback|player|podcast|podcast-player|podcasting|shikwasa|webplayer	 An audio player born for podcast
+AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-07	2024-04-22	False	7299	TypeScript	ai|ai-art|art|automatic1111|comfy|comfyui|comfyui-manager|photoshop|plugin|stable-diffusion	A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
+anse-app/chatgpt-demo	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-05	2023-12-27	False	7935	TypeScript	astro|chatgpt|chatgpt4|gpt-3|gpt-35|gpt-35-turbo|openai|openai-api	Minimal web UI for ChatGPT. 
+Nutlope/roomGPT	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-03-04	2024-04-20	False	10673	TypeScript		Upload a photo of your room to generate your dream room with AI.
+jamescalam/transformers	機器學習 / 資料科學	4. 停更 (2-3年)	UNSTAR	2023-02-27	2023-10-30	False	598	Jupyter Notebook		
+phodal/understand-prompt	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-02-25	2023-03-11	False	5564	Jupyter Notebook	ai|aigc|chatgpt|github-copilot|stable-diffusion	【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+paperjs/paper.js	前端 / UI	4. 停更 (2-3年)	REVIEW	2023-02-25	2024-07-23	False	15073	JavaScript		The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
+ptrstn/deepl-translate	其他 / 未分類	1. 已封存	UNSTAR	2023-02-24	2022-03-13	True	200	Python		An unofficial python package to translate text using deepl.com
+johnbumgarner/newspaper3_usage_overview	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2023-02-23	2024-01-02	False	153	Python	beautifulsoup|data-extraction|news|newspaper|newspaper3k|nlp-parsing|python|python-requests|scraping-websites	This repository provides usage examples for the Python module Newspaper3k.
+run-llama/llama-hub	AI / LLM / Agent	1. 已封存	UNSTAR	2023-02-19	2024-03-01	True	3462	Jupyter Notebook		A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
+carstenlebek/svelte-email	前端 / UI	4. 停更 (2-3年)	UNSTAR	2023-02-19	2024-04-04	False	548	Svelte	email|svelte|sveltekit	Write and send emails with Svelte ✉️🚀
+jkeefe/aistudio-workshops	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-02-18	2020-11-13	False	48	Jupyter Notebook		Workshops created by the Quartz AI Studio
+facebookresearch/metaseq	其他 / 未分類	1. 已封存	UNSTAR	2023-02-18	2024-04-27	True	6547	Python		Repo for external large-scale work
+cfortuner/promptable	AI / LLM / Agent	1. 已封存	UNSTAR	2023-02-17	2023-03-19	True	1745	TypeScript		Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
+GeneralMills/pytrends	後端 / API / 框架	1. 已封存	UNSTAR	2023-02-15	2024-08-10	True	3730	Python		Pseudo API for Google Trends 
+supabase-community/supabase-ui-svelte	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2023-02-08	2023-04-19	False	137	Svelte	auth|javascript|login|magiclink|oauth|supabase|svelte	Supabase authentication UI for Svelte
+TensorSpeech/TensorFlowTTS	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2023-02-05	2024-07-05	False	3996	Python	chinese-tts|fastspeech|fastspeech2|german-tts|japanese-tts|korea-tts|melgan|mobile-tts|multi-speaker-tts|multiband-melgan|parallel-wavegan|real-time|speech-synthesis|tacotron2|tensorflow2|text-to-speech|tflite|tts|vocoder|zh-tts	:stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
+appvision-ai/fast-bert	機器學習 / 資料科學	4. 停更 (2-3年)	UNSTAR	2023-02-04	2024-08-19	False	1917	Python	bert|fast-bert|fastai|transformers	Super easy library for BERT based NLP models
+RootbeerComputer/backend-GPT	AI / LLM / Agent	3. 長期停更 (>3年)	UNSTAR	2023-01-31	2023-06-26	False	2932	JavaScript		
+transitive-bullshit/agentic	AI / LLM / Agent	1. 已封存	UNSTAR	2023-01-31	2026-02-11	True	18116	TypeScript	agents|ai|llms|openai	Your API ⇒ Paid MCP. Instantly.
+acheong08/ChatGPT	開發工具 / CLI	1. 已封存	REVIEW	2023-01-31	2023-08-02	True	27900	Python	chatgpt|cli|gpt-35-turbo|gptchat|library|pypi-package|revchatgpt	Reverse engineered ChatGPT API
+karpathy/nn-zero-to-hero	機器學習 / 資料科學	4. 停更 (2-3年)	REVIEW	2023-01-30	2024-08-18	False	24254	Jupyter Notebook		Neural Networks: Zero to Hero
+facundoolano/aso	桌面 / 行動 App	4. 停更 (2-3年)	UNSTAR	2023-01-27	2023-11-15	False	861	JavaScript		Tools for app store optimization on iTunes and Google Play
+timothybrooks/instruct-pix2pix	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2023-01-23	2024-03-03	False	6884	Python		
+yargs/yargs	其他 / 未分類	2. 描述標示棄用	REVIEW	2023-01-20	2026-09-04	False	11512	JavaScript		 yargs the modern, pirate-themed successor to optimist.
+algolia/places	其他 / 未分類	1. 已封存	UNSTAR	2023-01-18	2023-02-02	True	5296	JavaScript	algolia|autocomplete|geo|geocoder|geolocation|places	:globe_with_meridians: Turn any <input> into an address autocomplete
+greenteamtaiwan/green-map-taiwan	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2023-01-14	2019-04-09	False	1	Vue		
+JingyunLiang/SwinIR	媒體 / 影音處理	4. 停更 (2-3年)	REVIEW	2023-01-10	2024-05-14	False	5585	Python	compression-artifact-reduction|deblocking|decompression|denoising|image-deblocking|image-denoising|image-restoration|image-sr|image-super-resolution|lightweight-image-super-resolution|low-level-vision|real-world-image-super-resolution|restoration|super-resolution|transformer|vision-transformer	SwinIR: Image Restoration Using Swin Transformer (official repository)
+EddieHubCommunity/BioDrop	前端 / UI	1. 已封存	UNSTAR	2023-01-09	2024-07-01	True	5690	JavaScript	css|docker|hacktoberfest|html|javascript|mongodb|nextjs|nodejs|reactjs|tailwind	Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
+karpathy/minGPT	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2023-01-07	2024-08-15	False	24865	Python		A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+vincelwt/chatgpt-mac	AI / LLM / Agent	1. 已封存	UNSTAR	2023-01-06	2023-10-23	True	6260	JavaScript	chatgpt|gpt-3|macos|menubar|menubar-app|openai	ChatGPT for Mac, living in your menubar.
+xinntao/Real-ESRGAN	機器學習 / 資料科學	4. 停更 (2-3年)	REVIEW	2022-09-10	2024-08-06	False	36695	Python	amine|denoise|esrgan|image-restoration|jpeg-compression|pytorch|real-esrgan|super-resolution	Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+alyssaxuu/motionity	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2022-09-03	2022-09-12	False	4100	JavaScript	after-effects|animation|audio|canva|canvas|editor|fabric|fabricjs|filters|javascript|keyframe|keyframes|motion|motion-graphics|timeline	The web-based motion graphics editor for everyone 📽
+mcoulthurst/xd-user-journey	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2022-08-14	2020-06-27	False	15	JavaScript		XD plugin to create initial layout of user journey from CSV file
+mcoulthurst/user-journey	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2022-08-13	2022-06-12	False	8	JavaScript	csv|journey|ui|user|ux	Dynamic web app to generate a user journey map based on CSV
+berstend/puppeteer-extra	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2022-08-12	2024-07-18	False	7399	JavaScript	automation|chrome|headless-browser|headless-chrome|lerna|monorepo|puppeteer|puppeteer-extra|puppeteer-plugins|recaptcha|stealth|user-preferences|yarn-workspaces	💯  Teach puppeteer new tricks through plugins.
+borisdayma/dalle-mini	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2022-06-05	2023-11-09	False	14737	Python		DALL·E Mini - Generate images from a text prompt
+lord-denning/Huberman-Lab-Podcast-Transcripts	媒體 / 影音處理	3. 長期停更 (>3年)	UNSTAR	2022-05-31	2022-05-08	False	267			
+soheilpro/mailwind	前端 / UI	4. 停更 (2-3年)	UNSTAR	2022-05-11	2023-11-06	False	3189	JavaScript	css|email|html|html-email|tailwind|tailwindcss	Use Tailwind CSS to design HTML emails.
+BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset	機器學習 / 資料科學	3. 長期停更 (>3年)	UNSTAR	2022-04-30	2023-07-04	False	3331	Python		This repository provides motion datasets collected by Bandai Namco Research Inc
+Akryum/vue-observe-visibility	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2022-04-02	2022-11-08	False	1644	JavaScript		Detect when an element is becoming visible or hidden on the page.
+ssssssss-team/spider-flow	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2021-12-26	2023-06-14	False	11354	Java	crawler|jsoup|spider|spider-flow|web-crawler|web-spider|webcrawler|webspider|xpath	新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+ditdot-dev/vue-flow-form	前端 / UI	4. 停更 (2-3年)	UNSTAR	2021-11-12	2024-07-17	False	808	Vue	conversational-ui|form|form-generator|forms|questionnaire|quiz|survey|survey-form|typeform|vue|vue-components|vue2|vue3|vuejs	Create conversational conditional-logic forms with Vue.js.
+ssreeramj/youtube_channels_analysis	機器學習 / 資料科學	3. 長期停更 (>3年)	UNSTAR	2021-10-31	2021-01-23	False	1	Python	data-analysis|heroku|pandas|python|streamlit|youtube	This web app gives a detailed analysis of the videos uploaded in a particular youtube channel.
+pierreminik/lisa-templates	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2021-08-23	2020-12-12	False	17	PHP		Easily write templates filled with custom data that loads across your site.
+alvarcarto/url-to-pdf-api	資料處理 / 爬蟲	4. 停更 (2-3年)	REVIEW	2021-06-17	2024-01-18	False	7103	HTML	chrome|headless|headless-chrome|heroku|heroku-button|html|invoice|pdf|puppeteer|receipt	Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
+PeachScript/vue-infinite-loading	前端 / UI	4. 停更 (2-3年)	UNSTAR	2021-06-06	2023-09-19	False	2646	JavaScript	infinite-scroll-plugin|vue	An infinite scroll plugin for Vue.js.
+CyberPunkMetalHead/Binance-volatility-trading-bot	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2021-06-01	2023-08-06	False	3495	Python		This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
+supabase-community/nuxt-supabase	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2021-05-30	2023-03-16	False	172	TypeScript	nuxt|supabase|vue	A supa simple wrapper around Supabase.js to enable usage within Nuxt.
+LinusBorg/portal-vue	前端 / UI	4. 停更 (2-3年)	UNSTAR	2021-05-14	2023-11-25	False	3886	Vue	portal|vuejs	A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
+awes-io/awes-io	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2021-05-09	2019-08-09	False	862	PHP	boilerplate|crm-platform|laravel|nuxt|pwa|pwa-boilerplate|saas-boilerplate|spa|ssr|tailwindcss|ui-kit|vue	Awes.io // boilerplate based on Vue, Nuxt, TailwindCSS plus Laravel as a backend. 🤟
+capacitor-community/auth0	其他 / 未分類	1. 已封存	UNSTAR	2021-05-01	2020-07-14	True	10	TypeScript	auth0|capacitor	
+nextapps-de/winbox	桌面 / 行動 App	4. 停更 (2-3年)	REVIEW	2021-04-29	2024-08-15	False	6449	JavaScript	box|desktop|desktop-app|desktop-widget|frame|popup|winbox|window|window-manager|windowmanager|windows	WinBox is a modern HTML5 window manager for the Web.
+Leecason/vue-rough-notation	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2021-04-23	2023-08-03	False	153	JavaScript	annotate|annotation|rough|sketchy|vue2|vue3	✏️rough-notation component for @vuejs, support Vue2 & 3.
+nhn/tui.calendar	前端 / UI	1. 已封存	UNSTAR	2021-04-22	2024-06-24	True	12703	TypeScript	calendar|daily|frontend|fullcalendar|javascript|milestone|monthly|schedule|task|weekly	🍞📅A JavaScript calendar that has everything you need.
+airform/airform	自架服務 / DevOps	4. 停更 (2-3年)	UNSTAR	2021-04-19	2024-06-18	False	515	TypeScript	airform|forms|hacktoberfest|html-forms|mailchimp|mailer|mailgun|sendgrid|sendmail|serverless|smtp	Functional HTML forms for Front-End Developers.
+mementum/backtrader	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2021-03-25	2024-08-19	False	23145	Python	backtesting|metaclass|python|trading	Python Backtesting library for trading strategies
+SortableJS/Vue.Draggable	前端 / UI	4. 停更 (2-3年)	REVIEW	2021-03-17	2024-03-04	False	20586	JavaScript	component|drag-and-drop|vue	Vue drag-and-drop component based on Sortable.js
+jareware/chilipie-kiosk	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2021-03-11	2022-04-04	False	1398	HTML	dashboard|kiosk-mode|raspberry-pi	Easy-to-use Raspberry Pi image for booting directly into full-screen Chrome, with built-in convenience features for unattended operation. Perfect for dashboards and build monitors.
+wagerfield/parallax	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2021-01-21	2024-04-06	False	16579	JavaScript		Parallax Engine that reacts to the orientation of a smart device
+freeCodeCamp/mail-for-good	其他 / 未分類	1. 已封存	UNSTAR	2021-01-16	2020-11-19	True	3814	JavaScript	email|email-campaigns|opensourceforgood	An open source email campaign management tool for nonprofits
+AlvinIsonomia/LSTM-for-Chinese-Punctuation-Restoration	機器學習 / 資料科學	3. 長期停更 (>3年)	UNSTAR	2021-01-14	2019-04-25	False	58	Jupyter Notebook		基于Pytorch 1.0 实现的中文断句与标点符号恢复。
+BingLingGroup/autosub	開發工具 / CLI	4. 停更 (2-3年)	UNSTAR	2021-01-13	2023-12-21	False	1960	Python	audio-segmentation|baidu-api|cloud-speech-api|substation-alpha|subtitles|voice-activity-detection|xfyun|xunfei-api	Command-line utility to transcribe/translate from video/audio/subtitles to subtitles 
+VerbalExpressions/JSVerbalExpressions	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2020-12-24	2024-08-07	False	12129	JavaScript	javascript-regular-expressions|verbalexpressions	JavaScript Regular expressions made easy
+imranhsayed/gatsby-woocommerce-themes	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2020-11-14	2023-03-04	False	621	JavaScript	apollo|gatsby|gatsby-theme|gatsby-themes|gatsby-woocommerce-theme|graphql|hacktoberfest|hacktoberfest2020|headless-wordpress-framework|reactjs|woocommerce|wordpress|wp-graphql|yoast-seo	⚡ A Gatsby Theme for WooCommerce E-commerce site Gatsby WooCommerce WordPress
+github1586/nuxt-bnhcp	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2020-10-23	2022-12-10	False	2126	Vue	nuxt|nuxt-module|nuxt3|nuxtjs-demo|vue-ssr	nuxt、node/express、vue、mysql、redis、socket.io (全栈-实战商城)～
+michalsnik/aos	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2020-10-23	2024-03-26	False	28052	JavaScript		Animate on scroll library
+sdras/page-transitions-travelapp	前端 / UI	4. 停更 (2-3年)	UNSTAR	2020-10-21	2023-10-17	False	1716	Vue	animations|native-like-transitions|nuxt|page-transitions|page-transitions-nuxt|page-transitions-vue|vue|vuejs	Travel App, Native-like Page Transitions
+hilongjw/vue-lazyload	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-10-19	2023-06-30	False	7990	JavaScript	lazyload|vue|vue-lazyload	A Vue.js plugin for lazyload your Image or Component in your application.
+krestaino/nuepress	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-10-12	2022-12-11	False	626	Vue	frontend|javascript|nuxt|rest-api|server-rendering|ssr|vue|vuex|web-app|wordpress	📖 Nuxt.js + WordPress REST API
+bytedance/IconPark	前端 / UI	1. 已封存	UNSTAR	2020-09-30	2023-02-24	True	9056	TypeScript	fill|icon|icon-components|icons|multiple-themes|stroke|svg|svg-icon|vue-component|vue-next|vue3	🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+robinvdvleuten/vuex-persistedstate	前端 / UI	1. 已封存	UNSTAR	2020-09-30	2022-02-04	True	5672	JavaScript	hacktoberfest|localstorage|plugin|storage|vue|vuex	💾 Persist and rehydrate your Vuex state between page reloads.
+bradley/Blotter	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-09-18	2020-07-28	False	3077	JavaScript	animation|creative-coding|css|design|glsl|glsl-shaders|javascript|lsd|text|typography|webgl	A JavaScript API for drawing unconventional text effects on the web.
+NielsdeBlaauw/query-monitor-twig-profile	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2020-09-17	2023-02-24	False	32	PHP	hacktoberfest|performance|performance-analysis|plugin|query-monitor|timber|timber-library|twig|twig-profile|wordpress|wordpress-development|wordpress-plugin	Displays Twig profiler output in Query Monitor
+niklasvh/html2canvas	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2020-09-12	2024-07-18	False	31919	TypeScript	dom|javascript|screenshot	Screenshots with JavaScript
+gridsome/gridsome	後端 / API / 框架	4. 停更 (2-3年)	REVIEW	2020-08-29	2024-04-10	False	8467	JavaScript	graphql|gridsome|jamstack|nodejs|static-site-generator|vue	⚡️ The Jamstack framework for Vue.js
+ElemeFE/element	前端 / UI	4. 停更 (2-3年)	REVIEW	2020-08-25	2024-08-20	False	54053	Vue	components|element-ui|javascript|ui-kit|vue|vue-components|vuejs	A Vue.js 2.0 UI Toolkit for Web
+animate-css/animate.css	前端 / UI	4. 停更 (2-3年)	REVIEW	2020-08-23	2024-07-29	False	82779	CSS	animation|css|css-animations|stylesheets	🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+mescroll/mescroll	前端 / UI	4. 停更 (2-3年)	UNSTAR	2020-08-10	2024-03-11	False	4456	Vue	bounce|css3|html5|iscroll|javascript|js-framework|nobounce|pull-refresh|pull-up-loading|vue	精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading)
+tailwindlabs/tailwindcss-custom-forms	前端 / UI	1. 已封存	UNSTAR	2020-07-25	2021-08-31	True	1546	JavaScript		A better base for styling form elements with Tailwind CSS.
+andrico1234/beautiful-skill-tree	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2020-07-19	2024-05-04	False	390	TypeScript		🌲🌲🌲Create beautiful skill trees for your web apps
+utterance/utterances	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2020-07-18	2024-08-15	False	9692	TypeScript	blog|comments|comments-widget|github|utterances	:crystal_ball: A lightweight comments widget built on GitHub issues
+minirefresh/minirefresh	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2020-07-12	2018-04-23	False	1538	JavaScript	css3|js-framework|minirefresh|pull-down-refresh|pull-to-load|pull-to-refresh|pull-up-loading|pull-up-refresh|pulltorefresh|themes	优雅的H5 下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. )
+alex-damian/pulse	媒體 / 影音處理	3. 長期停更 (>3年)	UNSTAR	2020-06-28	2021-04-30	False	8022	Python		PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+baidu/AnyQ	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2020-06-27	2020-11-28	False	2574	C++	dialogue|dialogue-systems|faq|faq-question-answering-system|faq-system|faqbot|qa-system|question-answering|semantic-matching	FAQ-based Question Answering System
+heybourn/headwind	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-06-24	2023-07-29	False	1429	TypeScript	css|formatter|sorter|tailwind-css|tailwindcss|visual-studio-code|visual-studio-extension	An opinionated Tailwind CSS class sorter built for Visual Studio Code
+OpenDiablo2/OpenDiablo2	遊戲開發	1. 已封存	UNSTAR	2020-06-21	2021-10-21	True	11089	Go	2d|arpg|diablo|diablo2|engine|game|game-engine|games|go|golang|open-source	An open source re-implementation of Diablo 2
+astrit/css.gg	前端 / UI	4. 停更 (2-3年)	REVIEW	2020-06-17	2024-08-26	False	10043	JavaScript	adobe-xd|api|css|css-icon|customizable|figma|figma-ui-icons|icons|json|multiple-icons|npm|purecss|retina-ready|styled-components|svg|svg-icon|svg-icon-pack|svg-icons|svg-sprite|svg-sprites	700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
+qkzhu/TULJ	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2020-06-17	2020-11-23	False	1	Swift		
+mertJF/tailblocks	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-06-14	2023-01-31	False	8888	JavaScript	css|tailblocks|tailwind|ui-components	Ready-to-use Tailwind CSS blocks.
+RostiMelk/ACF-Tools	後端 / API / 框架	1. 已封存	UNSTAR	2020-06-10	2020-12-19	True	145	JavaScript	acf|acf-field|advanced-custom-fields|chrome-extension|wordpress	Advanced Custom Fields code made simple! 🙌
+tomlecki/Bootimber	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-05-15	2020-02-14	False	13	HTML		Wordpress Theme with Twig, Timber, Bootstrap and Gulp automation
+senguptaumd/Background-Matting	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2020-04-26	2022-11-22	False	4765	Python		Background Matting: The World is Your Green Screen
+zonble/ykk_installer	其他 / 未分類	1. 已封存	UNSTAR	2020-04-17	2021-03-18	True	269	C++		 A simple project that creates a modern installer for Yahoo! KeyKey input method.
+phuocng/html-dom	前端 / UI	4. 停更 (2-3年)	REVIEW	2020-04-14	2024-06-06	False	6517	MDX	document-object-model|dom|dom-api|dom-manipulation|html|javascript|typescript	Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.
+purifycss/purifycss	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2020-03-15	2020-10-17	False	9846	JavaScript		Remove unused CSS. Also works with single-page apps.
+NARKOZ/hacker-scripts	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2020-01-20	2023-10-23	False	49818	JavaScript		Based on a true story
+ganlanyuan/tiny-slider	前端 / UI	4. 停更 (2-3年)	REVIEW	2020-01-13	2024-08-02	False	5327	HTML	carousel|slider	Vanilla javascript slider for all purposes.
+weilanwl/coloruicss	前端 / UI	4. 停更 (2-3年)	REVIEW	2019-12-09	2024-04-08	False	12382	Vue	css|mp-weixin|scss|uniapp|vue|vue2	鲜亮的高饱和色彩，专注视觉的小程序组件库
+easy-mock/easy-mock	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2019-12-08	2023-01-09	False	8961	JavaScript	data-generator|easy-mock|javascript|mock|swagger|vue	A persistent service that generates mock data quickly and provids visualization view.
+mailgun/transactional-email-templates	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2019-12-05	2022-02-03	False	6927	HTML		Responsive transactional HTML email templates
+alyssaxuu/flowy	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2019-12-01	2024-07-13	False	12123	JavaScript	diagrams|drag-and-drop|engine|flowchart|javascript|javascript-library|marketing|marketing-automation|minimal|zapier	The minimal javascript library to create flowcharts ✨
+hujingshuang/MTrans	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2019-11-28	2019-06-09	False	804	Java	api|baidu|google|httpclient|iciba|java|omics|sogou|tencent|translate|trycan|tts|youdao	Multi-source Translation
+graceavery/tamagotchiTemp	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2019-11-20	2020-10-11	False	1171			
+jaredhanson/passport	後端 / API / 框架	4. 停更 (2-3年)	REVIEW	2019-11-10	2024-08-16	False	23534	JavaScript	express|nodejs|oauth|oauth2|openid|openid-connect|passport|saml	Simple, unobtrusive authentication for Node.js.
+haoel/haoel.github.io	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2019-11-04	2023-05-11	False	13067	Shell		
+cmiscm/leonsans	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2019-09-03	2020-09-21	False	10171	JavaScript		Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
+google/live-transcribe-speech-engine	後端 / API / 框架	1. 已封存	UNSTAR	2019-08-21	2022-07-20	True	1501	Java		Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
+lohanidamodar/flutter_ui_challenges	桌面 / 行動 App	1. 已封存	UNSTAR	2019-08-18	2024-08-18	True	4755	Dart	flutter|flutter-demo|flutter-examples|flutter-ui|flutter-ui-challenges|flutter-widget	Updated for Flutter 3.x ** 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web
+bloc97/Anime4K	媒體 / 影音處理	4. 停更 (2-3年)	REVIEW	2019-08-16	2024-08-17	False	21353	Jupyter Notebook	anime|anime-upscaling|anime4k|cnn|computer-graphics|convolutional-neural-networks|denoising-algorithms|neural-networks|super-resolution|upsampling|upscaling|video|video-processing	A High-Quality Real Time Upscaler for Anime Video
+TCMExposed/SiteSource	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2019-08-12	2019-07-13	False	86	HTML	blog|china|javascript|medicine|tcm	揭穿中医网站源文件
+taki0112/UGATIT	機器學習 / 資料科學	3. 長期停更 (>3年)	UNSTAR	2019-08-09	2021-05-20	False	6116	Python		Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
+alienzhou/frontend-tech-list	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2019-08-03	2020-03-07	False	3569	HTML	css|frontend|html|javascript|list|pwa|security|tech	📝 Frontend Tech List for Developers 💡
+peterq/pan-light	桌面 / 行動 App	4. 停更 (2-3年)	REVIEW	2019-07-08	2023-09-17	False	12123	Go	baiduyun|golang|qml|qt5	百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+typlog/china-indie-podcasts	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2019-06-10	2023-11-02	False	870	Nunjucks		发现与推荐高质量的中文独立播客
+jogendra/LoadingShimmer	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2019-05-26	2022-10-22	False	1601	Swift	animation|animations|carthage|cocoapods|framework|hacktoberfest|ios|ios-animation|ios-swift|ios11|labels|library|swift|swift-4|swift-framework|swift-library|swift-package-manager|swift4|xcode	An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
+davideuler/architecture.meituan-dianping	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2019-05-20	2022-09-04	False	723			互联网公司架构: 美团点评技术架构
+jwagner/smartcrop.js	媒體 / 影音處理	4. 停更 (2-3年)	REVIEW	2019-04-30	2024-03-16	False	12954	JavaScript	image-processing|javascript|nodejs|smartcrop	Content aware image cropping
+gxercavins/image-api	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2019-04-30	2023-05-01	False	76	Python		Image Processing API using Python + Flask + PIL
+Louiszhai/tool	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2019-04-24	2022-08-25	False	5669	JavaScript	mac|tool	开发效率提升：Mac生产力工具链推荐
+fogleman/rbgg	媒體 / 影音處理	3. 長期停更 (>3年)	UNSTAR	2019-04-21	2018-07-25	False	374	Go	go|golang|image-processing	Isolate and remove the background gradient from images of paper.
+lib-pku/libpku	其他 / 未分類	3. 長期停更 (>3年)	REVIEW	2019-04-11	2022-01-05	False	33944	TeX		贵校课程资料民间整理
+instantbox/instantbox	桌面 / 行動 App	4. 停更 (2-3年)	UNSTAR	2019-03-26	2024-03-12	False	4174	Python	docker|docker-compose|hacktoberfest|linux|linux-shell|web-shell	📦 Get a clean, ready-to-go Linux box in seconds.
+mozilla/send	其他 / 未分類	1. 已封存	UNSTAR	2019-03-16	2021-05-21	True	13247	FreeMarker		Simple, private file sharing from the makers of Firefox
+statping/statping	自架服務 / DevOps	4. 停更 (2-3年)	REVIEW	2019-03-11	2024-07-05	False	7291	Vue	application-monitoring|docker|golang-plugin|monitoring|notifier|prometheus|prometheus-exporter|server-monitor|statping|status-page|statuspage|uptime|website-monitor	Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
+pwn20wndstuff/Undecimus	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2019-02-24	2021-08-01	False	6622	C		unc0ver jailbreak for iOS 11.0 - 12.4
+TheBerkin/rant3	遊戲開發	1. 已封存	UNSTAR	2019-02-09	2020-08-26	True	2933	C#		(Obsolete) Archive of Rant 3.x.
+postlight/parser	資料處理 / 爬蟲	4. 停更 (2-3年)	REVIEW	2019-02-09	2024-07-10	False	5789	JavaScript	jest|labs|mercury|mercury-parser|node|parser|parser-library|rollup	📜 Extract meaningful content from the chaos of a web page
+lancopku/pkuseg-python	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2019-01-10	2022-11-05	False	6709	Python	chinese-word-segmentation	pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
+xumaohuai/Flutter-CuriosityApp	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2019-01-08	2019-01-08	False	787	Dart		Flutter高仿好奇心日报
+facebookresearch/pytext	機器學習 / 資料科學	1. 已封存	UNSTAR	2019-01-04	2022-10-17	True	6292	Python		A natural language modeling framework based on PyTorch
+GatsbyCentral/gatsby-starter-wordpress	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-12-21	2022-02-15	False	385	JavaScript	gatsby|gatsby-starter|gatsbyjs|wordpress	LOOKING FOR MAINTAINER  - - - A GatsbyJS starter template that leverages the WordPress API, ACF and more
+nagadomi/waifu2x	媒體 / 影音處理	3. 長期停更 (>3年)	REVIEW	2018-12-21	2023-05-04	False	28216	Lua	super-resolution|torch|waifu2x	Image Super-Resolution for Anime-Style Art
+FudanNLP/fnlp	開發工具 / CLI	4. 停更 (2-3年)	UNSTAR	2018-12-01	2023-11-17	False	2684	Java	fnlp|fudannlp|java|nlp-library	中文自然语言处理工具包 Toolkit for Chinese natural language processing
+GitSquared/edex-ui	桌面 / 行動 App	1. 已封存	REVIEW	2018-12-01	2021-10-19	True	45053	JavaScript	desktop|edex-ui|electron|linux|macos|nodejs|science-fiction|shell|terminal|touchscreen|tron|unixporn|windows	A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+nostalgic-css/NES.css	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-12-01	2024-01-17	False	21824	SCSS	8bit|css|css-framework|nes|scss	NES-style CSS Framework | ファミコン風CSSフレームワーク
+imsun/gitment	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2018-11-26	2021-10-05	False	4047	JavaScript	comments|github-blog|github-issues	A comment system based on GitHub Issues.
+fxsjy/jieba	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2018-11-11	2024-08-21	False	35138	Python		结巴中文分词
+Chimeejs/chimee-player	媒體 / 影音處理	3. 長期停更 (>3年)	UNSTAR	2018-11-11	2021-12-03	False	297	JavaScript	chimee|chimee-player|chimeejs|flv|h5-video|h5-video-player|h5-video-ui|hls|video	A complete set of H5 player.  这是一套包含UI插件、FLV和HLS解码器的快速上手解决方案，可以按您的业务场景适当调整依赖后重新构建打包。
+reactioncommerce/reaction	後端 / API / 框架	2. 描述標示棄用	REVIEW	2018-11-09	2026-03-01	False	12401	JavaScript	cart|commerce|docker|e-commerce|ecommerce|ecommerce-platform|graphql|hacktoberfest|headless|javascript|marketplace|mongodb|reaction-action|reactioncommerce|shop|storefront	Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes. 
+kingkool68/generate-ssl-certs-for-local-development	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2018-11-01	2021-03-29	False	1358	Shell		A bash script for generating trusted self-signed SSL certs for local development on your Mac
+goldze/MVVMHabit	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-10-22	2022-08-11	False	7705	Java	aac|databinding|glide|lifecycle|mvvm|mvvm-library|okhttp|retrofit|retrofit2|rxjava|rxjava2	👕基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个高质量、易维护的Android应用。
+mscifo/pressless	後端 / API / 框架	2. 描述標示棄用	UNSTAR	2018-10-16	2018-11-15	False	81	JavaScript		[NO LONGER MAINTAINED] A tool that migrates an existing Wordpress site into a fully functioning Serverless site, powered by AWS (Cloudfront, API Gateway, Lambda, S3).
+atlanhq/camelot	資料處理 / 爬蟲	1. 已封存	UNSTAR	2018-10-14	2023-01-05	True	3715	Python	extract|for-humans|pdf|table	Camelot: PDF Table Extraction for Humans
+geerlingguy/drupal-vm	自架服務 / DevOps	1. 已封存	UNSTAR	2018-09-21	2023-02-13	True	1350	Jinja	ansible|cms|development|docker|drupal|environment|local|vagrant|virtualbox|vm	A VM for Drupal development
+kamikat/bilibili-get	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2018-09-08	2019-04-27	False	188	JavaScript		Bilibili video downloader.
+vas3k/btt-touchbar-presets	其他 / 未分類	1. 已封存	UNSTAR	2018-09-07	2019-12-29	True	1821	AppleScript		BetterTouchTool Touch Bar Presets
+jeblister/bulma	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-08-05	2022-03-31	False	44	HTML	bulma-css|bulma-template|hugo|hugo-theme	Bulma is a simple and a responsive Hugo theme that offers a traditional blog mixed with a landing page designed to bootstrap your frontend!.
+jamiebuilds/itsy-bitsy-data-structures	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-07-26	2021-02-13	False	8571	JavaScript		:european_castle: All the things you didn't know you wanted to know about data structures
+philipwalton/solved-by-flexbox	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-07-24	2022-12-03	False	12915	CSS		A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+phobal/ivideo	桌面 / 行動 App	1. 已封存	UNSTAR	2018-07-20	2021-01-28	True	11823	JavaScript		一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
+fitztrev/shuttle	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2018-07-15	2021-12-22	False	4573	Objective-C		A simple shortcut menu for macOS
+ellekasai/purplecoat.js	前端 / UI	2. 描述標示棄用	UNSTAR	2018-07-13	2018-03-19	False	758	HTML		[Unmaintained] Simple Labeled Overlays
+necolas/normalize.css	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-07-12	2024-06-12	False	53521	CSS	css|css-reset|normalize-css	A modern alternative to CSS resets
+taiwanese-work-in/singapore	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-06-29	2017-07-09	False	395		singapore|taiwan|wiki	台灣人到新加坡的工作、生活、簽證申請經驗分享
+FiloSottile/mkcert	桌面 / 行動 App	4. 停更 (2-3年)	REVIEW	2018-06-28	2024-08-13	False	59549	Go	certificates|chrome|firefox|https|ios|linux|local-development|localhost|macos|root-ca|tls|windows	A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+nclud/wp-timber-cli	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2018-06-23	2017-04-16	False	67	JavaScript		
+hrsetyono/edje-wc-library	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-06-14	2023-04-26	False	15	PHP		Plugin to simplify WooCommerce complicated features.
+hrsetyono/generator-edje	前端 / UI	2. 描述標示棄用	UNSTAR	2018-06-14	2019-03-31	False	10	CSS		(Discontinued) Yeoman Generator for project built with Edje Sass Framework.
+pedronauck/docz	前端 / UI	1. 已封存	REVIEW	2018-06-13	2025-11-21	True	23579	TypeScript	design-system|docs|documentation|docz|gatsby|js|mdx|react|theme|ui|zero-configuration	✍ It has never been so easy to document your things!
+CodeTips/BaiduNetdiskPlugin-macOS	桌面 / 行動 App	1. 已封存	UNSTAR	2018-06-12	2020-10-17	True	8873	Objective-C		For macOS.百度网盘 破解SVIP、下载速度限制~
+metafizzy/isotope	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-06-11	2021-09-24	False	11100	HTML		:revolving_hearts: Filter & sort magical layouts
+tpai/taiwan-travel-level	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-06-09	2018-08-08	False	100	HTML		How many place you live since you are kid? Show me your taiwan travel level!
+LaunchKit/LaunchKit	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2018-06-09	2022-11-22	False	2170	JavaScript		A set of web-based tools for mobile app developers, now open source!
+geektheripper/fuck-smartisan	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-06-06	2018-06-06	False	184	JavaScript		a npm package that helps you fuck smartisanOS
+zhhr1122/z_comic_new	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-06-06	2019-09-21	False	892	Java		一款采用MVP模式的设计的仿造腾讯漫画的APP
+aFarkas/lazysizes	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-06-04	2024-04-03	False	17717	JavaScript	javascript|lazy-evaluation|lazyload|lazysizes|performance|responsive-images	High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+laras126/tacklebox-theme	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-06-04	2016-03-28	False	1	CSS		Content blocks child theme.
+Citrix-TechSpecialist/Docker-101	自架服務 / DevOps	3. 長期停更 (>3年)	UNSTAR	2018-06-02	2017-11-03	False	136			This repository walks students though how to get started with Docker and basic Docker commands. 
+GoogleChromeLabs/critters	前端 / UI	1. 已封存	UNSTAR	2018-06-01	2024-10-25	True	3429	JavaScript	critical-css|css|inlining-critical-fonts|webpack|webpack-plugin	🦔 A Webpack plugin to inline your critical CSS and lazy-load the rest.
+uileader/touchui	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-05-31	2018-12-04	False	1372	JavaScript		高质量移动端UI框架。官网：https://www.wetouch.net
+Jack-Cherish/python-spider	資料處理 / 爬蟲	4. 停更 (2-3年)	REVIEW	2018-05-30	2024-08-19	False	19754	Python	python|python-spider|python3|webspider	:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
+ahmadawais/WPGulp	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-05-29	2022-12-02	False	1751	JavaScript	javascript|minification|theme|translation|wordpress-gulp-workflow|wordpress-plugin|workflow|wpgulp	An advanced Gulp workflow for WordPress development with extensive documentation. Used by 40,000+ themes and plugins.
+wangshub/Douyin-Bot	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2018-05-29	2023-10-03	False	9636	Python		😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ 
+mdo/wtf-forms	前端 / UI	1. 已封存	UNSTAR	2018-05-28	2020-09-28	True	2672	CSS		Friendlier HTML form controls with a little CSS magic. 
+mimecorg/vuido	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-05-25	2023-03-01	False	6051	JavaScript	desktop|libui|vue|vuido	Native desktop applications using Vue.js.
+caijinyc/vue-music-webapp	前端 / UI	1. 已封存	UNSTAR	2018-05-17	2019-11-06	True	2290	Vue		A Music WebApp based on the Vue.
+Embedding/Chinese-Word-Vectors	AI / LLM / Agent	4. 停更 (2-3年)	REVIEW	2018-05-17	2023-10-30	False	12228	Python	chinese|chinese-word-segmentation|embedding|embeddings|vectors-trained|word-embeddings	100+ Chinese Word Vectors 上百种预训练中文词向量 
+prisma/prisma1	後端 / API / 框架	1. 已封存	UNSTAR	2018-05-17	2022-09-01	True	16381	Scala	dao|database|datamapper|graphql|orm|prisma1|serverless	💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
+Laverna/laverna	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2018-05-07	2021-05-30	False	9179	JavaScript	laverna|note-taking|peer-to-peer|socket-io|webrtc|websocket	Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+cgoldsby/LoginCritter	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2018-05-02	2019-12-17	False	5675	Swift	animation|swift|uipropertyanimator	An animated avatar that responds to text field interactions
+jadjoubran/webdash	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-05-01	2018-07-14	False	1534	HTML	beginner-friendly|javascript|nodejs|polymer|productivity|webcomponents|webdash	🔥 Orchestrate your web project with Webdash the customizable web dashboard
+tellform/tellform	後端 / API / 框架	1. 已封存	UNSTAR	2018-04-30	2019-10-09	True	3023	JavaScript	form-builder|forms|google-forms|mean-stack|nodejs|self-hosted|typeform	✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
+typisttech/image-optimize-command	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-04-30	2022-04-20	False	174	PHP	compression|cwebp|gifsicle|image|image-optimizer|jpegoptim|optimizer|optipng|performance|pngquant|svgo|wordpress|wp-cli|wp-cli-package	Easily optimize images using WP CLI
+RevillWeb/img-2	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-04-27	2018-05-22	False	1880	HTML		Replace <img /> elements with <img-2> to automatically pre-cache images and improve page performance.
+Info-cn/Terminus	前端 / UI	1. 已封存	UNSTAR	2018-04-25	2018-05-06	True	436	CSS	anticensorship|jekyll-theme|terminus	项目已迁移，此处仅为存档。
+gorhill/uMatrix	其他 / 未分類	1. 已封存	UNSTAR	2018-04-25	2021-07-20	True	4684	JavaScript		uMatrix: Point and click matrix to filter net requests according to source, destination and type
+intoli/remote-browser	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-04-17	2018-07-14	False	1751	JavaScript		A low-level browser automation framework built on top of the Web Extensions API standard.
+ChrisLinn/greyhame-2017	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-04-17	2019-07-07	False	793			" 知识星球""灰袍技能"" 2017 精华"
+tongxiaofeng/steem-cn	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-04-10	2017-05-21	False	59			Steem White Paper translation in Chinese. Steem白皮书中文版
+WPprodigy/woocommerce-external-product-embed	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-04-08	2018-12-24	False	48	PHP		Provides a shortcode to embed products from another store.
+amfe/lib-flexible	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2018-03-30	2023-09-11	False	12490	JavaScript		可伸缩布局方案
+linweiwei123/multipages-generator	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-03-30	2023-01-07	False	352	JavaScript	express|flexible|frontend|node-module|nodejs|optimization|webpack	🥇 generator for multiple pages webpack application
+Popmotion/popmotion	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-03-29	2024-03-12	False	20163	JavaScript	animation|css|javascript-motion-engine|motion|physics|popmotion|svg|tween	Simple animation libraries for delightful user interfaces
+panteng/wechat-h5-boilerplate	開發工具 / CLI	1. 已封存	UNSTAR	2018-03-29	2020-07-05	True	2681	JavaScript	h5|wechat	为腾讯微信优化的H5动效模板，帮助你快速构建全屏滚动型H5页面。
+onivim/oni	開發工具 / CLI	1. 已封存	UNSTAR	2018-03-27	2020-04-01	True	11239	TypeScript	editing|editor|gui|ide|javascript|neovim|neovim-guis|oni|react|redux|rxjs|text-editor|typescript|ui|vim	Oni: Modern Modal Editing - powered by Neovim
+schollz/find3	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-03-27	2022-12-30	False	4800	Go	bluetooth|gps-tracking|indoor-positioning|location-services|motion|wifi	High-precision indoor positioning framework, version 3.
+apache/incubator-weex	其他 / 未分類	1. 已封存	UNSTAR	2018-03-21	2021-05-31	True	13604	C++	weex	Apache Weex (Incubating)
+boot2docker/boot2docker	開發工具 / CLI	1. 已封存	UNSTAR	2018-03-21	2020-06-30	True	8274	Shell		DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408
+ivaldi/brimir	後端 / API / 框架	1. 已封存	UNSTAR	2018-03-20	2018-12-22	True	1366	Ruby	e-mail|helpdesk|rails|ruby|ticket	Email helpdesk built using Ruby on Rails and Zurb Foundation
+scottopolis/wpIonic	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-03-20	2020-09-04	False	380	TypeScript		Ionic 3.9.2 App with WordPress and WooCommerce integration
+rough-stuff/rough	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-03-14	2024-07-28	False	21153	HTML	canvas|draw|graphics|html5-canvas|svg|svg-path	Create graphics with a hand-drawn, sketchy, appearance
+xtyxtyx/sorry	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-03-14	2023-04-11	False	6425	CSS		在线制作`sorry 为所欲为`的gif
+pervognsen/bitwise	其他 / 未分類	1. 已封存	UNSTAR	2018-03-12	2019-03-07	True	5257	C		Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
+Meituan-Dianping/mpvue	前端 / UI	3. 長期停更 (>3年)	REVIEW	2018-03-11	2022-03-02	False	20252	JavaScript	mini|mpvue|vue|weapp|wxmp	基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+sketch-hq/svgo-compressor	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2018-03-09	2023-01-06	False	1109	JavaScript	sketch-app|sketch-plugin|sketchapp|svgo	A Plugin that compresses SVG assets using SVGO, right when you export them.
+DWilliames/paddy-sketch-plugin	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-03-09	2022-08-19	False	2147	JavaScript	cocoascript|design-tools|sketch|sketch-plugin|sketchapp	Automated padding, spacing and alignment for your Sketch layers
+stephenway/sketch-foundation-kit	開發工具 / CLI	1. 已封存	UNSTAR	2018-03-09	2021-07-20	True	983		foundation|foundation-cli|foundation-site|sketch|sketch-template|sketchapp|symbols|ui-kit	:gem: The Foundation for Sites template for Sketch 3.
+dataliterate/data-populator	前端 / UI	4. 停更 (2-3年)	UNSTAR	2018-03-09	2024-02-16	False	1655	JavaScript	adobe|adobe-xd|data|data-populator|design|design-tool|design-tools|meaningful-data|sketch|sketchapp	A plugin for Sketch and Adobe XD to populate your design mockups with meaningful data. Goodbye Lorem Ipsum. Hello JSON.
+pavelkuligin/chart	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-03-09	2020-09-25	False	1177		chart|data-visualization|sketch-plugin|sketch-runner-compatible|sketchapp|sketchpacks	Create the most popular types of charts by real or random data
+JellyBool/flarum-ext-slug	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2018-03-03	2018-02-26	False	2	PHP		Flarum 中文 URL Slug 支持
+cute/SketchI18N	其他 / 未分類	1. 已封存	UNSTAR	2018-03-02	2019-01-17	True	1246	JavaScript	sketch-plugin	Sketch Internationalization Plugin
+houshanren/hangzhou_house_knowledge	前端 / UI	3. 長期停更 (>3年)	REVIEW	2018-02-26	2022-02-28	False	26870	CSS	hangzhou|knowledge	2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+psf/requests-html	前端 / UI	4. 停更 (2-3年)	REVIEW	2018-02-26	2024-04-16	False	13812	Python	beautifulsoup|css-selectors|html|http|kennethreitz|lxml|pyquery|python|requests|scraping	Pythonic HTML Parsing for Humans™
+yuanchuan/ikko-tanaka	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-02-21	2018-04-27	False	30	CSS		Ikko Tanaka's graphic design in CSS
+devunt/make-gis-great-again	媒體 / 影音處理	3. 長期停更 (>3年)	UNSTAR	2018-02-21	2023-07-27	False	762	JavaScript		"This web extension adds back ""View Image"" button to Google Image Search results."
+electerious/basicScroll	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2018-02-21	2022-10-24	False	3597	JavaScript		Standalone parallax scrolling for mobile and desktop with CSS variables.
+sureskumar/sketch-isometric	桌面 / 行動 App	4. 停更 (2-3年)	UNSTAR	2018-02-21	2024-05-03	False	1638	JavaScript		 Generate Isometric and 3D Rotation views from Artboards and Rectangles in Sketch app.
+Attendize/Attendize	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2018-02-08	2024-08-20	False	4272	PHP	attendance|attendize|door-management|event-management|event-registration|events|laravel|sell-tickets|ticketing|tickets	Attendize is an open-source ticket selling and event management platform built on Laravel.
+viewscreen/viewscreen	自架服務 / DevOps	3. 長期停更 (>3年)	UNSTAR	2018-02-08	2018-10-02	False	232	Go	docker|go|golang|html5|self-hosted|web	Viewscreen - a personal video streaming server
+Anorov/cloudflare-scrape	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2018-02-07	2023-10-14	False	3536	Python	anti-bot-page|cloudflare|protected-page|scrape|scraping-websites	A Python module to bypass Cloudflare's anti-bot page.
+Netflix/fast_jsonapi	後端 / API / 框架	2. 描述標示棄用	UNSTAR	2018-02-05	2023-03-06	False	5030	Ruby	not-maintained	No Longer Maintained - A lightning fast JSON:API serializer for Ruby Objects.
+qiwsir/ITArticles	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2018-02-02	2021-04-22	False	1966	Python		
+IBM/css-gridish	前端 / UI	1. 已封存	UNSTAR	2018-01-29	2019-04-18	True	2220	CSS	design	Automatically build your grid design’s CSS Grid code, CSS Flexbox fallback code, Sketch artboards, and Chrome extension.
+zouhir/jarvis	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2018-01-22	2023-02-17	False	5472	JavaScript	build-tool|dashboard|webpack	A very intelligent browser based Webpack dashboard
+relativty/Relativty	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2018-01-21	2024-07-21	False	7240	C++	diy|hardware|maxim-xyz|oculus|virtual-reality|vr|vr-headset	An open source VR headset with SteamVR supports for $200
+python-eel/Eel	前端 / UI	1. 已封存	UNSTAR	2018-01-09	2025-06-22	True	6735	Python	hacktoberfest	A little Python library for making simple Electron-like HTML/JS GUI apps
+understrap/understrap-child	前端 / UI	4. 停更 (2-3年)	UNSTAR	2018-01-08	2023-10-11	False	576	CSS	child-themes|understrap-child|understrap-theme-framework|wordpress-bootstrap|wordpress-framework|wordpress-starter-theme	The starter child theme for Understrap, the renowned open-source WordPress starter theme.
+picturepan2/instagram.css	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2018-01-03	2023-01-15	False	4010	CSS		Instagram.css - Complete set of Instagram filters in pure CSS
+wangshub/wechat_jump_game	遊戲開發	3. 長期停更 (>3年)	UNSTAR	2018-01-01	2022-11-22	False	13840	Python	adb|python|wechat-app	微信《跳一跳》Python 辅助
+GoneToneStudio/line-example-bot-tiny-php	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-12-21	2021-02-27	False	77	PHP	bot|example|line|php	Line Bot 基礎範例程式碼教學 (PHP) - 輕量版 LINEBotTiny.php
+KubaSzostak/pdf-to-jpg	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-12-20	2022-06-24	False	205	Batchfile		Script to convert PDF to JPEG using Ghostscript library
+schn4ck/schnack	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-12-20	2023-03-03	False	1813	JavaScript	commenting|disqus|disqus-clone|nodejs|schnack	🗣️ Simple self-hosted node app for Disqus-like drop-in commenting on static websites 
+85Ryan/wp2wb	後端 / API / 框架	1. 已封存	UNSTAR	2017-12-18	2019-02-23	True	14	PHP	plugin|sync|sync-to-weibo|weibo|wordpress|wordpress-plugin	同步 WordPress 文章到微博
+medialab/artoo	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-12-10	2021-03-31	False	1118	JavaScript	scraping	artoo.js - the client-side scraping companion.
+youfou/wxpy	後端 / API / 框架	1. 已封存	UNSTAR	2017-12-06	2019-07-14	True	14260	Python	api|wechat|weixin	微信机器人 / 可能是最优雅的微信个人号 API ✨✨
+littlecodersh/ItChat	後端 / API / 框架	4. 停更 (2-3年)	REVIEW	2017-12-06	2023-09-28	False	26470	Python	api|itchat|robot|wechat	A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
+haltu/muuri	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2017-12-06	2024-05-25	False	10946	JavaScript	bin-packing|dnd|drag-and-drop|draggable|filter|grid|layout|muuri|sort	Infinite responsive, sortable, filterable and draggable layouts
+reactopt/reactopt	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-12-05	2018-03-23	False	1973	JavaScript	chromium|command-line-interface|commandline|commandline-interface|component|developer-tools|javascript|npm|npm-module|npm-package|optimization|puppeteer|react|react-component|react-devtools|reactjs|testing|testing-tools	A CLI React performance optimization tool that identifies potential unnecessary re-rendering
+kren1/tosheets	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2017-11-19	2020-07-14	False	543	Python	command-line|google-sheets|google-spreadsheet|pipe|python|stdin	Send your stdin to google sheets
+Heydon/inclusive-design-checklist	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-11-15	2020-06-11	False	2762	JavaScript		Aims to be the biggest checklist of inclusive design considerations ever
+Chimeejs/chimee	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-11-10	2020-06-15	False	2394	JavaScript	advertising-plugin|chimee|flv|framework|h5-video|h5-video-player|hls|html5|html5-video|html5-video-player|mp4|players|video|video-element|video-player|videoplayer|videoplaymanager|videoplugin|web-video-player	a video player framework aims to bring wonderful experience on browser
+EngineLin/Front-End-Checklist	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-10-31	2018-09-03	False	419			🗂 給現代網站及細膩開發者使用，超棒的前端開發者清單
+adobe-fonts/source-han-serif	前端 / UI	4. 停更 (2-3年)	REVIEW	2017-10-19	2024-07-30	False	9667	Shell	cff|cff2|cjk|font|opentype|otc|otf|source-han|variable-fonts	Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+l10n-tw/cwtex-q-fonts	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-10-19	2022-06-16	False	196			修正後的 cwTeX TTF 字型
+nanohop/sketch-to-react-native	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-10-19	2020-09-03	False	2313	Python		Convert Sketch files into React Native components
+apache/incubator-weex-ui	前端 / UI	1. 已封存	UNSTAR	2017-10-13	2021-05-27	True	4717	Vue	mobile|ui-components|vue|weex	🏄  A rich interaction, lightweight, high performance UI library based on Weex.
+PunitGr/QuickBill	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-10-05	2022-01-26	False	327	SCSS	es6|flowtype|invoice|invoice-generator|invoice-pdf|javascript|pdf|progressive-web-app|quickbill|react-redux|react-router|reactjs|unlimited-invoices|webpack	Create unlimited invoices for free.
+samejack/sc-dictionary	其他 / 未分類	4. 停更 (2-3年)	UNSTAR	2017-10-02	2024-04-08	False	112			繁體+簡體中文詞庫字典檔
+keremciu/font-bundles	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-10-02	2021-02-26	False	467			Main font-bundle for sketch icon-font plugin.
+leeovery/wordpress-to-laravel	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-10-02	2023-09-23	False	114	PHP		Provides means to sync Wordpress posts to your Laravel DB in order to use Laravel as the front-end to your WP blog (cos lets face it - WP templates suck ass)
+StackExchange/blackbox	後端 / API / 框架	1. 已封存	UNSTAR	2017-10-02	2025-11-05	True	6768	Go		Safely store secrets in Git/Mercurial/Subversion
+apple/darwin-xnu	開發工具 / CLI	1. 已封存	UNSTAR	2017-10-01	2023-01-13	True	11264	C	kernel	Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu
+lllyasviel/style2paints	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2017-10-01	2023-08-01	False	18175	JavaScript		sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+aivarsk/scrapy-proxies	自架服務 / DevOps	3. 長期停更 (>3年)	UNSTAR	2017-09-26	2019-10-01	False	1667	Python		Random proxy middleware for Scrapy 
+lanbing510/DouBanSpider	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-09-26	2020-04-08	False	2785	Python		豆瓣读书的爬虫
+Stufinite/CampassCrawler	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-09-26	2019-11-03	False	5	HTML		臺灣所有的大學爬蟲
+jhao104/spider	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-09-26	2017-03-24	False	70	Python	crawler|python|spider	python crawler spider
+fullstackyang/weibo-crawler	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-09-24	2017-10-15	False	38	Java	spider|weibo	新型的免登录微博爬虫，自动获取Cookie直接进行抓取和解析微博数据，免去了账号登录的过程，彻底摆脱账号被封的困扰
+ariya/phantomjs	其他 / 未分類	1. 已封存	REVIEW	2017-09-24	2022-11-26	True	29438	C++	automation|headless|headless-browser|phantomjs	Scriptable Headless Browser
+fate0/getproxy	自架服務 / DevOps	1. 已封存	UNSTAR	2017-09-22	2022-08-02	True	829	Python	getproxy|proxy|proxy-checker|web-proxy	getproxy 是一个抓取发放代理网站，获取 http/https 代理的程序
+stamparm/fetch-some-proxies	自架服務 / DevOps	1. 已封存	UNSTAR	2017-09-22	2023-03-15	True	579	Python	anonymity|proxy|python	"Simple Python script for fetching ""some"" (usable) proxies"
+MaxCDN/osscdn	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2017-09-22	2015-10-19	False	103	JavaScript		Free CDN by MaxCDN
+diracdeltas/FastestWebsiteEver	媒體 / 影音處理	4. 停更 (2-3年)	UNSTAR	2017-09-21	2024-08-13	False	1408	C		ultrafast single TCP packet audio/visual experience
+Enclavely/tailor	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-09-15	2020-07-22	False	1034	PHP		Build beautiful page layouts quickly and easily using your favourite WordPress theme.
+binux/pyspider	資料處理 / 爬蟲	1. 已封存	UNSTAR	2017-09-14	2024-04-30	True	16768	Python	crawler|python	A Powerful Spider(Web Crawler) System in Python.
+bunnieabc/Blender	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2017-09-14	2020-06-19	False	386	JavaScript		A Blend tool for Sketch App. 
+ustbhuangyi/better-scroll	前端 / UI	4. 停更 (2-3年)	REVIEW	2017-09-13	2024-06-14	False	16459	TypeScript	better-performance|ios|iscroll|mobile-web|more-features|vue	:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+salomonelli/best-resume-ever	前端 / UI	4. 停更 (2-3年)	REVIEW	2017-09-13	2024-06-11	False	16473	Vue	cv|javascript|nodejs|pdf|resume|vue	:necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+syamilmj/Aqua-Resizer	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-09-13	2020-10-16	False	501	PHP		Resize WordPress images on the fly
+Tuhinshubhra/RED_HAWK	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-09-13	2024-07-31	False	3747	PHP	admin-scanner|backups-finder|cloudflare-detection|cms-detector|crawler|domain-authority-scanner|geo-ip|http-header|information-gathering|mx-lookup|page-authority-scanner|reverse-ip-scan|scanner|sql-scanner|sql-vulnerability-scannig|subdomain-scanner|subnet-lookup|whois-lookup|wordpress|wordpress-scanner	All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers
+taniarascia/wp-functions	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-09-13	2024-02-25	False	1237		functions|php|settings|wordpress|wordpress-development|wordpress-functions	A compilation of function snippets for WordPress developers who create their own themes.
+wordpress-clients/hybrid	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-09-13	2018-11-24	False	1010	TypeScript	angular|ionic2|wordpress|wordpress-api	[I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!
+WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress	後端 / API / 框架	1. 已封存	UNSTAR	2017-09-13	2018-12-17	True	1736	PHP		Lets you easily create metaboxes with custom fields that will blow your mind.   
+phacility/phabricator	後端 / API / 框架	4. 停更 (2-3年)	REVIEW	2017-09-12	2024-04-12	False	12299	PHP	git|hg|phabricator|php|svn	Effective June 1, 2021: Phabricator is no longer actively maintained.
+BenjaminAdams/wp-redis-cache	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-09-12	2017-09-01	False	151	PHP		Cache Wordpress faster
+siversalih/pyChrome-Web-Automation	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2017-09-08	2020-09-30	False	38	Python		Web Automation Module based on Selenium Python 
+jorgenkg/python-proxy-rotator	自架服務 / DevOps	3. 長期停更 (>3年)	UNSTAR	2017-09-07	2021-07-16	False	82	Python		An automatic proxy rotator - multithreaded & SSL
+extiverse/bazaar	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-09-07	2023-01-03	False	59	PHP	extensions|flarum|flarum-extension|marketplace	The extension marketplace for your Flarum forum.
+erdiaker/torrequest	開發工具 / CLI	4. 停更 (2-3年)	UNSTAR	2017-09-06	2023-10-05	False	238	Python	python|requests|tor	Simple Python interface for HTTP(s) requests over Tor
+openalpr/openalpr	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2017-09-04	2024-01-11	False	11457	C++		Automatic License Plate Recognition library
+SpectivOfficial/live-tour-lab	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-09-01	2018-10-14	False	1117	JavaScript		:heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
+emadehsan/thal	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-08-30	2020-10-28	False	2360	JavaScript	chrome-headless|mongodb|mongoose|nodejs|puppeteer|scraping	Getting started with Puppeteer and Chrome Headless for Web Scraping
+nvbn/thefuck	開發工具 / CLI	4. 停更 (2-3年)	REVIEW	2017-08-25	2024-07-19	False	97768	Python	python|shell	Magnificent app which corrects your previous console command.
+esbenp/pdf-bot	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-08-23	2024-03-07	False	2638	JavaScript	chromium|google-chrome|headless|headless-chrome|headless-chromium|html|node-js|nodejs|pdf|pdf-generation|pdf-generator	🤖 A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs
+brunobar79/J-I-C	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-08-23	2018-07-19	False	853	JavaScript		J I C is a Javascript Image Compressor using HTML5 Canvas & File API that allows you to compress your jpeg & png images before uploading to the server (100% client-side and no extra libraries required!)
+steveschow/gfxCardStatus	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2017-08-22	2020-12-01	False	558	Objective-C		This is a fork of gfxCardStatus, this fork will handle integrated-only mode a little better
+saada/Habitica-macOS	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2017-08-20	2016-07-02	False	16	HTML	habitica|macos	Habitica (formerly HabitRPG) native version for the mac desktop
+nativefier/nativefier	桌面 / 行動 App	1. 已封存	REVIEW	2017-08-20	2023-09-29	True	35284	TypeScript	desktop-application|electron|linux|macos|nodejs|windows	Make any web page a desktop application
+dawnlabs/alchemy	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-08-19	2021-03-14	False	1001	JavaScript	alchemy|convert|electron|files|images|menubar|react	:crystal_ball: File conversion, all from the menu bar
+TKkk-iOSer/WeChatPlugin-MacOS	桌面 / 行動 App	4. 停更 (2-3年)	REVIEW	2017-08-18	2024-06-09	False	14281	Objective-C	alfred-workflow|macos|plugin|tweak|wechat|weixin	微信小助手
+Tencent/VasSonic	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-08-18	2023-04-07	False	11850	Java	android-sdk|h5|hybrid|ios-sdk|web|webview	VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform. 
+webslides/WebSlides	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-08-17	2022-12-10	False	6321	JavaScript	css|design|html|html-presentation|javascript|slides|slideshow|webpack|webslides	Create HTML presentations in seconds —
+wp-sync-db/wp-sync-db	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-08-14	2021-03-21	False	2287	PHP		A WordPress plugin that lets you push, pull, and sync database tables between WordPress installations.
+SpiderClub/weibospider	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-08-07	2020-07-11	False	4794	Python	data-analysis|distributed-crawler|python3|sina|weibo|weibospider	:zap: A distributed crawler for weibo, building with celery and requests.
+welaika/wordless	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-08-05	2023-04-28	False	1420	PHP	babel|core-js|development|es2015|es6|framework|jade|php|plugin|pug|pug-template-engine|sass|scss|theme|webpack|wordpress|wordpress-boilerplate|wordpress-starter-theme|yarn	All the power of Pug, Sass, Coffeescript and WebPack in your WordPress theme. Stop writing themes like it's 1998.
+speed/newcrawler	資料處理 / 爬蟲	4. 停更 (2-3年)	UNSTAR	2017-08-05	2023-11-25	False	587	JavaScript	crawler|docker|scraping|spider	Free Web Scraping Tool with Java
+ruipgil/scraperjs	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-08-05	2020-10-18	False	3716	JavaScript		A complete and versatile web scraper.
+scrapinghub/portia	資料處理 / 爬蟲	1. 已封存	UNSTAR	2017-08-05	2024-06-26	True	9504	Python		Visual scraping for Scrapy
+NikolaiT/GoogleScraper	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-08-05	2021-07-03	False	2879	HTML	crawler|python|scraping|search-engine|search-engine-optimization|search-engines	A Python module to scrape several search engines (like Google, Yandex, Bing, Duckduckgo, ...). Including asynchronous networking support.
+poststatus/wptest	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-08-04	2023-11-29	False	934	Shell		WP Test - The Best Tests For WordPress
+a-thok/rime-hokkien	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2017-08-04	2020-07-09	False	59			閩南語臺羅輸入方案，為RIME輸入法所設計
+1sters/material_design_zh	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-08-04	2019-05-06	False	3049	CSS		Material Design 中文协同翻译 - design.1sters.com
+thunlp/THULAC-Python	其他 / 未分類	3. 長期停更 (>3年)	UNSTAR	2017-08-04	2022-01-31	False	2084	Python	chinese-nlp	An Efficient Lexical Analyzer for Chinese
+lucasjinreal/weibo_terminater	資料處理 / 爬蟲	3. 長期停更 (>3年)	UNSTAR	2017-08-04	2019-10-25	False	2317	Python	chatbot|chinese|corpus|scraper|sina|weibo	Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator 
+NLPchina/ansj_seg	機器學習 / 資料科學	4. 停更 (2-3年)	REVIEW	2017-08-04	2023-11-19	False	6516	Java	ansj|chinese|java|nlp	ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+schickling/chromeless	自架服務 / DevOps	1. 已封存	UNSTAR	2017-07-31	2018-11-13	True	13220	TypeScript	chrome|graphcool|headless|headless-chrome|integration-testing|nightmarejs|selenium|serverless	🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+welovewordpress/SublimeHtmlTidy	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-07-29	2013-11-20	False	89	Python		Tidy, clean and prettify your HTML code with this plugin for Sublime Text 2
+hypriot/rpi-node	開發工具 / CLI	1. 已封存	UNSTAR	2017-07-29	2017-09-07	True	71	Shell		RPi-compatible Docker image with Node.js
+hypriot/flash	開發工具 / CLI	3. 長期停更 (>3年)	UNSTAR	2017-07-29	2022-06-06	False	1017	Shell	card-reader|flash|hypriot-flash|hypriot-os|raspberry-pi|sd-card-image|sd-cards|wifi-settings	Command line script to flash SD card images of any kind
+HelloZeroNet/ZeroNet	其他 / 未分類	4. 停更 (2-3年)	REVIEW	2017-07-25	2024-01-31	False	18771	JavaScript	anonymity|anticensorship|bitcoin|bittorrent|decentralized|internet-freedom|p2p|python|realtime|tor|torrent|web	ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+ivanilves/xiringuito	安全 / 隱私	3. 長期停更 (>3年)	UNSTAR	2017-07-25	2021-12-29	False	1160	Shell	access|aws|bastion-host|network|security|ssh|vpn	"SSH-based ""VPN for poors"""
+luckymarmot/ThemeKit	桌面 / 行動 App	3. 長期停更 (>3年)	UNSTAR	2017-07-23	2021-08-18	False	886	Swift	dark-theme|darkmode|theme-changes|theming|user-themes	macOS theming library
+yapstudios/YapAnimator	桌面 / 行動 App	1. 已封存	UNSTAR	2017-07-22	2026-03-07	True	1932	Swift	animation|design|ios|mac|macos|macosx|motion|physics-simulation|swift	Your fast and friendly physics-based animation system.
+uncss/uncss	前端 / UI	4. 停更 (2-3年)	REVIEW	2017-07-20	2024-06-18	False	9399	JavaScript	build-tool|cleanup|css|javascript|postcss|stylesheets|uncss|unusedcss	Remove unused styles from CSS
+coells/100days	機器學習 / 資料科學	3. 長期停更 (>3年)	UNSTAR	2017-07-17	2018-05-11	False	7475	Jupyter Notebook		100 days of algorithms
+peterramsing/lost	前端 / UI	4. 停更 (2-3年)	UNSTAR	2017-07-17	2024-03-03	False	4453	JavaScript	css|grid|javascript|postcss	LostGrid is a powerful grid system built in PostCSS that works with any preprocessor and even vanilla CSS.
+sdras/intro-to-vue	前端 / UI	3. 長期停更 (>3年)	UNSTAR	2017-07-17	2023-03-05	False	2764	Vue	introduction-to-nuxt|introduction-to-vue|nuxt|vue|vue-animations|vue-cli|vue-directive|vue-methods|vue-watchers|vuex	Workshop Materials for my Introduction to Vue.js Workshop
+azat-co/practicalnode	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-07-16	2023-10-04	False	3779	JavaScript	apress|aws|aws-ec2|express|express-js|expressjs|javascript|mocha|mongodb|node-js|node-module|nodejs|rest-api	Practical Node.js, 1st and 2nd Editions [Apress] 📓
+wpbrasil/odin	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-07-15	2021-07-06	False	562	PHP	framework|theme|wordpress	Framework and base theme for development with WordPress.
+jjgrainger/wp-custom-post-type-class	後端 / API / 框架	1. 已封存	UNSTAR	2017-07-15	2017-05-19	True	411	PHP	custom-post-types|wordpress	A PHP Class for creating Wordpress Custom Post Types easily
+wecodemore/WordPress-Gear	後端 / API / 框架	3. 長期停更 (>3年)	UNSTAR	2017-07-15	2021-10-27	False	454	CSS	wordpress|wordpress-development	 A bunch of gear for WP developers
+scribu/wp-posts-to-posts	後端 / API / 框架	4. 停更 (2-3年)	UNSTAR	2017-07-15	2024-05-29	False	973	PHP	wordpress	Efficient many-to-many connections between posts, pages, custom post types, users.
